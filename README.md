@@ -1,4 +1,4 @@
-# DIFZ25X DOWNGRADER
+# DIFZ25X ROBLOX
 
 ![Version](https://img.shields.io/badge/version-1.0.0-black?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-white?style=flat-square)
@@ -120,8 +120,8 @@ const AVAILABLE_VERSIONS = [
 
 ### File Locations
 
-- **Downloads**: `%APPDATA%/difz25x-downgrader/downloads/`
-- **Installed Versions**: `%APPDATA%/difz25x-downgrader/versions/`
+- **Downloads**: `%APPDATA%/difz25x-roblox/downloads/`
+- **Installed Versions**: `%APPDATA%/difz25x-roblox/versions/`
 - **Logs**: Console output (press F12 in dev mode)
 
 ---
@@ -229,7 +229,7 @@ Contributions are welcome! Here's how:
 
 ## 📝 Changelog
 
-### Version 1.0.0 (2025-01-XX)
+### Version 1.0.1 (2025-11-23)
 - Initial release
 - Version selection system
 - Multi-instance support
@@ -288,8 +288,8 @@ SOFTWARE.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/difz25x-downgrader/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/difz25x-downgrader/discussions)
+- **Issues**: [GitHub Issues](https://github.com/yourusername/difz25x-roblox/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/yourusername/difz25x-roblox/discussions)
 - **Discord**: [Join our server](#) (optional)
 
 ---
@@ -304,6 +304,6 @@ This tool is for educational purposes only. Use at your own risk. The developers
 
 **Made with ❤️ by Difz25x Community**
 
-[⬆ Back to Top](#difz25x-downgrader)
+[⬆ Back to Top](#difz25x-roblox)
 
 </div>
